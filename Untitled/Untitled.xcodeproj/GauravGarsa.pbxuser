@@ -6,6 +6,21 @@
 			26FDA12D13312C1D005150D0 /* Untitled */,
 		);
 	};
+	269C56D7133520AE001A8575 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Untitled-Info.plist */;
+	};
+	269C56D8133520AE001A8575 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Untitled-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/GauravGarsa/Desktop/git/learning/Untitled/Untitled-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
 	26FDA12D13312C1D005150D0 /* Untitled */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -67,7 +82,7 @@
 					20,
 					341,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -82,8 +97,12 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 321989661;
-			PBXWorkspaceStateSaveDate = 321989661;
+			PBXPerProjectTemplateStateSaveDate = 322248848;
+			PBXWorkspaceStateSaveDate = 322248848;
+		};
+		perUserProjectItems = {
+			269C56D7133520AE001A8575 /* PBXBookmark */ = 269C56D7133520AE001A8575 /* PBXBookmark */;
+			269C56D8133520AE001A8575 /* PlistBookmark */ = 269C56D8133520AE001A8575 /* PlistBookmark */;
 		};
 		sourceControlManager = 26FDA13C13312C22005150D0 /* Source Control */;
 		userBuildSettings = {

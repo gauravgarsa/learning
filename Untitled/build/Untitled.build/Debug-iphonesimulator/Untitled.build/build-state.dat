@@ -1,239 +1,0 @@
-TUntitled
-v7
-r0
-t321990737.627429
-cCheck dependencies
-cProcessInfoPlistFile /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist Untitled-Info.plist
-cCompileXIB /Users/GauravGarsa/Desktop/git/learning/Untitled/MainWindow.xib
-cCpResource build/Debug-iphonesimulator/Untitled.app/Woof.gif Woof.gif
-cProcessPCH /var/folders/FY/FYGM7kR1HkSVRwcnlhr87E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Untitled_Prefix-dimjdqexbpceyrbtxvmvjbrgpjpv/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o /Users/GauravGarsa/Desktop/git/learning/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o /Users/GauravGarsa/Desktop/git/learning/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled normal i386
-cGenerateDSYMFile /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
-cTouch /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
-c000000004CA1E6670000000000000110
-t1285678695
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004C5A4DB60000000000295900
-t1280986550
-s2709760
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004C5A4DB0000000000029D580
-t1280986544
-s2741632
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004C5A4DA10000000000001466
-t1280986529
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C6241ED00000000000009CD
-t1281507821
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C6242840000000001E228C0
-t1281507972
-s31598784
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/Classes/UntitledAppDelegate.h
-c000000004D80F49D000000000000014B
-t1300296861
-s331
-i<UIKit/UIKit.h>
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/Classes/UntitledAppDelegate.m
-c000000004D80F49D00000000000009CE
-t1300296861
-s2510
-i"UntitledAppDelegate.h"
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/Earth (Clouds).gif
-c000000004D80F9340000000000000AC8
-t1300298036
-s2760
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/MainWindow.xib
-c000000004D80F8CE0000000000005961
-t1300297934
-s22881
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/Untitled_Prefix.pch
-c000000004D80F49D00000000000000B9
-t1300296861
-s185
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/Woof.gif
-c000000004D80F7EE000000000000071C
-t1300297710
-s1820
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app
-t1300297937
-s238
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM
-t1300297904
-s102
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Earth (Clouds).gif
-t2
-s0
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist
-t1300297901
-s595
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/MainWindow.nib
-t1300297937
-s3167
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/PkgInfo
-t1300297901
-s8
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
-t1300297904
-s15692
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Woof.gif
-t1300297901
-s1820
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Untitled.LinkFileList
-c000000004D80F8AD000000000000011B
-t1300297901
-s283
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
-t1300297903
-s46268
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
-t1300297903
-s6324
-
-N/Users/GauravGarsa/Desktop/git/learning/Untitled/main.m
-c000000004D80F49D000000000000016B
-t1300296861
-s363
-i<UIKit/UIKit.h>
-
-N/var/folders/FY/FYGM7kR1HkSVRwcnlhr87E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Untitled_Prefix-dimjdqexbpceyrbtxvmvjbrgpjpv/Untitled_Prefix.pch.gch
-t1300297903
-s15211536
-
-NUntitled-Info.plist
-c000000004D80F49D000000000000038D
-t1300296861
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies321990737#321990737#0(0"0(0#1#0"8621540160#0"0#
-
-CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o /Users/GauravGarsa/Desktop/git/learning/Untitled/Classes/UntitledAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321990703.766728
-e321990703.932271
-r1
-xCompileC
-xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o
-x/Users/GauravGarsa/Desktop/git/learning/Untitled/Classes/UntitledAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@86"Compile /Users/GauravGarsa/Desktop/git/learning/Untitled/Classes/UntitledAppDelegate.m321990703#321990703#0(0"0(0#0#78"/Users/GauravGarsa/Desktop/git/learning/Untitled/Classes/UntitledAppDelegate.m8621743872#2082"    cd /Users/GauravGarsa/Desktop/git/learning/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/include -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/FY/FYGM7kR1HkSVRwcnlhr87E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Untitled_Prefix-dimjdqexbpceyrbtxvmvjbrgpjpv/Untitled_Prefix.pch -c /Users/GauravGarsa/Desktop/git/learning/Untitled/Classes/UntitledAppDelegate.m -o /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/UntitledAppDelegate.o0#
-
-CCompileC build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o /Users/GauravGarsa/Desktop/git/learning/Untitled/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s321990703.765522
-e321990703.924829
-r1
-xCompileC
-xbuild/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o
-x/Users/GauravGarsa/Desktop/git/learning/Untitled/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@63"Compile /Users/GauravGarsa/Desktop/git/learning/Untitled/main.m321990703#321990703#0(0"0(0#0#55"/Users/GauravGarsa/Desktop/git/learning/Untitled/main.m8625152768#2044"    cd /Users/GauravGarsa/Desktop/git/learning/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/include -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -include /var/folders/FY/FYGM7kR1HkSVRwcnlhr87E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Untitled_Prefix-dimjdqexbpceyrbtxvmvjbrgpjpv/Untitled_Prefix.pch -c /Users/GauravGarsa/Desktop/git/learning/Untitled/main.m -o /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/GauravGarsa/Desktop/git/learning/Untitled/MainWindow.xib
-s321990737.156579
-e321990737.624170
-r1
-xCompileXIB
-x/Users/GauravGarsa/Desktop/git/learning/Untitled/MainWindow.xib
-o2011-03-16 23:22:17.481 Interface Builder Cocoa Touch Tool[469:1903] CFPreferences: user home directory at file://localhost/Users/GauravGarsa/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
-lSLF07#2@25"CompileXIB MainWindow.xib321990737#321990737#0(244"2011-03-16 23:22:17.481 Interface Builder Cocoa Touch Tool[469:1903] CFPreferences: user home directory at file://localhost/Users/GauravGarsa/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#63"/Users/GauravGarsa/Desktop/git/learning/Untitled/MainWindow.xib8603843616#601"    cd /Users/GauravGarsa/Desktop/git/learning/Untitled    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/MainWindow.nib /Users/GauravGarsa/Desktop/git/learning/Untitled/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
-
-CCpResource "build/Debug-iphonesimulator/Untitled.app/Earth (Clouds).gif" "Earth (Clouds).gif"
-r0
-
-CCpResource build/Debug-iphonesimulator/Untitled.app/Woof.gif Woof.gif
-s321990701.778386
-e321990701.837986
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Untitled.app/Woof.gif
-xWoof.gif
-lSLF07#2@13"Copy Woof.gif321990701#321990701#0(0"0(0#0#57"/Users/GauravGarsa/Desktop/git/learning/Untitled/Woof.gif8615578464#483"    cd /Users/GauravGarsa/Desktop/git/learning/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/GauravGarsa/Desktop/git/learning/Untitled/Woof.gif /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app0#
-
-CGenerateDSYMFile /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
-s321990704.396861
-e321990704.462993
-r1
-xGenerateDSYMFile
-x/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM
-x/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
-lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Untitled.app.dSYM build/Debug-iphonesimulator/Untitled.app/Untitled321990704#321990704#0(0"0(0#0#98"/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled8621859104#416"    cd /Users/GauravGarsa/Desktop/git/learning/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled -o /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app.dSYM0#
-
-CLd /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled normal i386
-s321990703.932367
-e321990704.396748
-r1
-xLd
-x/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled
-xnormal
-xi386
-lSLF07#2@103"Link /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled321990703#321990704#0(0"0(0#0#0"8622286720#955"    cd /Users/GauravGarsa/Desktop/git/learning/Untitled    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator -F/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator -filelist /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Objects-normal/i386/Untitled.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Untitled0#
-
-CProcessInfoPlistFile /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist Untitled-Info.plist
-s321990701.741672
-e321990701.769689
-r1
-xProcessInfoPlistFile
-x/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist
-xUntitled-Info.plist
-lSLF07#2@27"Process Untitled-Info.plist321990701#321990701#0(0"0(0#0#68"/Users/GauravGarsa/Desktop/git/learning/Untitled/Untitled-Info.plist27303270315982948#512"    cd /Users/GauravGarsa/Desktop/git/learning/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Untitled-Info.plist -genpkginfo /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app/Info.plist0#
-
-CProcessPCH /var/folders/FY/FYGM7kR1HkSVRwcnlhr87E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Untitled_Prefix-dimjdqexbpceyrbtxvmvjbrgpjpv/Untitled_Prefix.pch.gch Untitled_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s321990702.255000
-e321990703.765328
-r1
-xProcessPCH
-x/var/folders/FY/FYGM7kR1HkSVRwcnlhr87E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Untitled_Prefix-dimjdqexbpceyrbtxvmvjbrgpjpv/Untitled_Prefix.pch.gch
-xUntitled_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@30"Precompile Untitled_Prefix.pch321990702#321990703#0(0"0(0#0#68"/Users/GauravGarsa/Desktop/git/learning/Untitled/Untitled_Prefix.pch8615064128#1925"    cd /Users/GauravGarsa/Desktop/git/learning/Untitled    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-generated-files.hmap -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-own-target-headers.hmap -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/Untitled-project-headers.hmap -F/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/include -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources/i386 -I/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Untitled.build/Debug-iphonesimulator/Untitled.build/DerivedSources -c /Users/GauravGarsa/Desktop/git/learning/Untitled/Untitled_Prefix.pch -o /var/folders/FY/FYGM7kR1HkSVRwcnlhr87E+++TQ/-Caches-/com.apple.Xcode.503/SharedPrecompiledHeaders/Untitled_Prefix-dimjdqexbpceyrbtxvmvjbrgpjpv/Untitled_Prefix.pch.gch0#
-
-CTouch /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app
-s321990737.624682
-e321990737.627386
-r1
-xTouch
-x/Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app
-lSLF07#2@95"Touch /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app321990737#321990737#0(0"0(0#0#0"8624617792#299"    cd /Users/GauravGarsa/Desktop/git/learning/Untitled    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/GauravGarsa/Desktop/git/learning/Untitled/build/Debug-iphonesimulator/Untitled.app0#
-

@@ -1,0 +1,236 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2622680F1332772A00B105D4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2622680E1332772A00B105D4 /* Foundation.framework */; };
+		262268121332772A00B105D4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 262268111332772A00B105D4 /* main.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		262268081332772A00B105D4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		2622680A1332772A00B105D4 /* stanford 2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "stanford 2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2622680E1332772A00B105D4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		262268101332772A00B105D4 /* stanford_2.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = stanford_2.1; sourceTree = "<group>"; };
+		262268111332772A00B105D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		262268141332772A00B105D4 /* stanford_2_Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = stanford_2_Prefix.pch; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		262268071332772A00B105D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2622680F1332772A00B105D4 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		262267FD1332772900B105D4 = {
+			isa = PBXGroup;
+			children = (
+				262268041332772A00B105D4 /* Source */,
+				262268051332772A00B105D4 /* Documentation */,
+				2622680B1332772A00B105D4 /* Products */,
+				2622680D1332772A00B105D4 /* Frameworks */,
+				262268131332772A00B105D4 /* Other Sources */,
+			);
+			sourceTree = "<group>";
+		};
+		262268041332772A00B105D4 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				262268111332772A00B105D4 /* main.m */,
+			);
+			path = Source;
+			sourceTree = "<group>";
+		};
+		262268051332772A00B105D4 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				262268101332772A00B105D4 /* stanford_2.1 */,
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+		2622680B1332772A00B105D4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2622680A1332772A00B105D4 /* stanford 2 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2622680D1332772A00B105D4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2622680E1332772A00B105D4 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		262268131332772A00B105D4 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				262268141332772A00B105D4 /* stanford_2_Prefix.pch */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		262268091332772A00B105D4 /* stanford 2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 262268171332772A00B105D4 /* Build configuration list for PBXNativeTarget "stanford 2" */;
+			buildPhases = (
+				262268061332772A00B105D4 /* Sources */,
+				262268071332772A00B105D4 /* Frameworks */,
+				262268081332772A00B105D4 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "stanford 2";
+			productName = "stanford 2";
+			productReference = 2622680A1332772A00B105D4 /* stanford 2 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		262267FF1332772900B105D4 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 262268021332772900B105D4 /* Build configuration list for PBXProject "stanford 2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 262267FD1332772900B105D4;
+			productRefGroup = 2622680B1332772A00B105D4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				262268091332772A00B105D4 /* stanford 2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		262268061332772A00B105D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				262268121332772A00B105D4 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		262268151332772A00B105D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		262268161332772A00B105D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		262268181332772A00B105D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = stanford_2_Prefix.pch;
+				INSTALL_PATH = /usr/local/bin;
+				PRODUCT_NAME = "stanford 2";
+			};
+			name = Debug;
+		};
+		262268191332772A00B105D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = stanford_2_Prefix.pch;
+				INSTALL_PATH = /usr/local/bin;
+				PRODUCT_NAME = "stanford 2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		262268021332772900B105D4 /* Build configuration list for PBXProject "stanford 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				262268151332772A00B105D4 /* Debug */,
+				262268161332772A00B105D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		262268171332772A00B105D4 /* Build configuration list for PBXNativeTarget "stanford 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				262268181332772A00B105D4 /* Debug */,
+				262268191332772A00B105D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 262267FF1332772900B105D4 /* Project object */;
+}

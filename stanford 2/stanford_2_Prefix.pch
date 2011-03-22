@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'stanford 2' target in the 'stanford 2' project
+//
+
+#ifdef __OBJC__
+#endif

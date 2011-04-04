@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace>
+   <FileRef
+      location = "container:../../stanford 2/polygonShape.h">
+   </FileRef>
+   <FileRef
+      location = "container:../../stanford 2/polygonShape.m">
+   </FileRef>
+   <FileRef
+      location = "container:../../stanford 2/stanford 2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "self:polyApp.xcodeproj">
+   </FileRef>
+</Workspace>

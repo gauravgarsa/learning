@@ -1,0 +1,307 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		265C6E4713857A7900CCAABB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 265C6E4613857A7900CCAABB /* UIKit.framework */; };
+		265C6E4913857A7900CCAABB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 265C6E4813857A7900CCAABB /* Foundation.framework */; };
+		265C6E4B13857A7900CCAABB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 265C6E4A13857A7900CCAABB /* CoreGraphics.framework */; };
+		265C6E5013857A7900CCAABB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 265C6E4E13857A7900CCAABB /* InfoPlist.strings */; };
+		265C6E5213857A7900CCAABB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 265C6E5113857A7900CCAABB /* main.m */; };
+		265C6E5513857A7900CCAABB /* QuickStartAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 265C6E5413857A7900CCAABB /* QuickStartAppDelegate.m */; };
+		265C6E5813857A7900CCAABB /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 265C6E5613857A7900CCAABB /* MainWindow.xib */; };
+		265C6E5B13857A7900CCAABB /* QuickStartViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 265C6E5A13857A7900CCAABB /* QuickStartViewController.m */; };
+		265C6E5E13857A7900CCAABB /* QuickStartViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 265C6E5C13857A7900CCAABB /* QuickStartViewController.xib */; };
+		265C6E6913857A9F00CCAABB /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 265C6E6813857A9F00CCAABB /* AddressBookUI.framework */; };
+		265C6E6C13857AA400CCAABB /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 265C6E6B13857AA400CCAABB /* AddressBook.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		265C6E4313857A7900CCAABB /* QuickStart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuickStart.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		265C6E4613857A7900CCAABB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		265C6E4813857A7900CCAABB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		265C6E4A13857A7900CCAABB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		265C6E4C13857A7900CCAABB /* QuickStart-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "QuickStart-Info.plist"; sourceTree = "<group>"; };
+		265C6E4D13857A7900CCAABB /* QuickStart_Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuickStart_Prefix.pch; sourceTree = "<group>"; };
+		265C6E4F13857A7900CCAABB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		265C6E5113857A7900CCAABB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		265C6E5313857A7900CCAABB /* QuickStartAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuickStartAppDelegate.h; sourceTree = "<group>"; };
+		265C6E5413857A7900CCAABB /* QuickStartAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuickStartAppDelegate.m; sourceTree = "<group>"; };
+		265C6E5713857A7900CCAABB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		265C6E5913857A7900CCAABB /* QuickStartViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QuickStartViewController.h; sourceTree = "<group>"; };
+		265C6E5A13857A7900CCAABB /* QuickStartViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QuickStartViewController.m; sourceTree = "<group>"; };
+		265C6E5D13857A7900CCAABB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/QuickStartViewController.xib; sourceTree = "<group>"; };
+		265C6E6813857A9F00CCAABB /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AddressBookUI.framework; sourceTree = "<group>"; };
+		265C6E6B13857AA400CCAABB /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AddressBook.framework; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		265C6E4013857A7900CCAABB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				265C6E6C13857AA400CCAABB /* AddressBook.framework in Frameworks */,
+				265C6E6913857A9F00CCAABB /* AddressBookUI.framework in Frameworks */,
+				265C6E4713857A7900CCAABB /* UIKit.framework in Frameworks */,
+				265C6E4913857A7900CCAABB /* Foundation.framework in Frameworks */,
+				265C6E4B13857A7900CCAABB /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		265C6E3413857A7900CCAABB = {
+			isa = PBXGroup;
+			children = (
+				265C6E6B13857AA400CCAABB /* AddressBook.framework */,
+				265C6E6813857A9F00CCAABB /* AddressBookUI.framework */,
+				265C6E3B13857A7900CCAABB /* Classes */,
+				265C6E3C13857A7900CCAABB /* Other Sources */,
+				265C6E3D13857A7900CCAABB /* Resources */,
+				265C6E3E13857A7900CCAABB /* Frameworks */,
+				265C6E4413857A7900CCAABB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		265C6E3B13857A7900CCAABB /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				265C6E5313857A7900CCAABB /* QuickStartAppDelegate.h */,
+				265C6E5413857A7900CCAABB /* QuickStartAppDelegate.m */,
+				265C6E5913857A7900CCAABB /* QuickStartViewController.h */,
+				265C6E5A13857A7900CCAABB /* QuickStartViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		265C6E3C13857A7900CCAABB /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				265C6E4D13857A7900CCAABB /* QuickStart_Prefix.pch */,
+				265C6E5113857A7900CCAABB /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		265C6E3D13857A7900CCAABB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				265C6E4C13857A7900CCAABB /* QuickStart-Info.plist */,
+				265C6E4E13857A7900CCAABB /* InfoPlist.strings */,
+				265C6E5613857A7900CCAABB /* MainWindow.xib */,
+				265C6E5C13857A7900CCAABB /* QuickStartViewController.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		265C6E3E13857A7900CCAABB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				265C6E4613857A7900CCAABB /* UIKit.framework */,
+				265C6E4813857A7900CCAABB /* Foundation.framework */,
+				265C6E4A13857A7900CCAABB /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		265C6E4413857A7900CCAABB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				265C6E4313857A7900CCAABB /* QuickStart.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		265C6E4213857A7900CCAABB /* QuickStart */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 265C6E6113857A7900CCAABB /* Build configuration list for PBXNativeTarget "QuickStart" */;
+			buildPhases = (
+				265C6E3F13857A7900CCAABB /* Sources */,
+				265C6E4013857A7900CCAABB /* Frameworks */,
+				265C6E4113857A7900CCAABB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = QuickStart;
+			productName = QuickStart;
+			productReference = 265C6E4313857A7900CCAABB /* QuickStart.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		265C6E3613857A7900CCAABB /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 265C6E3913857A7900CCAABB /* Build configuration list for PBXProject "QuickStart" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 265C6E3413857A7900CCAABB;
+			productRefGroup = 265C6E4413857A7900CCAABB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				265C6E4213857A7900CCAABB /* QuickStart */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		265C6E4113857A7900CCAABB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				265C6E5013857A7900CCAABB /* InfoPlist.strings in Resources */,
+				265C6E5813857A7900CCAABB /* MainWindow.xib in Resources */,
+				265C6E5E13857A7900CCAABB /* QuickStartViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		265C6E3F13857A7900CCAABB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				265C6E5213857A7900CCAABB /* main.m in Sources */,
+				265C6E5513857A7900CCAABB /* QuickStartAppDelegate.m in Sources */,
+				265C6E5B13857A7900CCAABB /* QuickStartViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		265C6E4E13857A7900CCAABB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				265C6E4F13857A7900CCAABB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		265C6E5613857A7900CCAABB /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				265C6E5713857A7900CCAABB /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		265C6E5C13857A7900CCAABB /* QuickStartViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				265C6E5D13857A7900CCAABB /* en */,
+			);
+			name = QuickStartViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		265C6E5F13857A7900CCAABB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.1;
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+			};
+			name = Debug;
+		};
+		265C6E6013857A7900CCAABB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.1;
+			};
+			name = Release;
+		};
+		265C6E6213857A7900CCAABB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = QuickStart_Prefix.pch;
+				INFOPLIST_FILE = "QuickStart-Info.plist";
+				PRODUCT_NAME = QuickStart;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		265C6E6313857A7900CCAABB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = QuickStart_Prefix.pch;
+				INFOPLIST_FILE = "QuickStart-Info.plist";
+				PRODUCT_NAME = QuickStart;
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		265C6E3913857A7900CCAABB /* Build configuration list for PBXProject "QuickStart" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				265C6E5F13857A7900CCAABB /* Debug */,
+				265C6E6013857A7900CCAABB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		265C6E6113857A7900CCAABB /* Build configuration list for PBXNativeTarget "QuickStart" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				265C6E6213857A7900CCAABB /* Debug */,
+				265C6E6313857A7900CCAABB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 265C6E3613857A7900CCAABB /* Project object */;
+}

@@ -225,8 +225,8 @@
 						<string key="NS.object.0">id</string>
 					</object>
 					<dictionary class="NSMutableDictionary" key="outlets">
-						<string key="firstName">UILabel</string>
-						<string key="lastName">UILabel</string>
+						<string key="firstName">id</string>
+						<string key="lastName">id</string>
 					</dictionary>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBProjectSource</string>
